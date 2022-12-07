@@ -1,0 +1,29 @@
+{
+    "patients": [
+        {
+            "allergies": [],
+            "sex": "F",
+            "name": "Jennifer Nguyen",
+            "health number": 1234,
+            "conditions": [
+                "eczema",
+                "scoliosis"
+            ],
+            "age": 19,
+            "vaxx Status": false
+        },
+        {
+            "allergies": [
+                "nuts",
+                "pollen"
+            ],
+            "sex": "F",
+            "name": "Annabell Nguyen",
+            "health number": 1122,
+            "conditions": [],
+            "age": 12,
+            "vaxx Status": false
+        }
+    ],
+    "name": "My patient catalog"
+}

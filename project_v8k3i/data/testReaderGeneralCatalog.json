@@ -1,0 +1,29 @@
+{
+    "patients": [
+        {
+            "allergies": [
+                "grass",
+                "pollen"
+            ],
+            "sex": "F",
+            "name": "Jennifer Nguyen",
+            "health number": 1234,
+            "conditions": [],
+            "age": 19,
+            "vaxx Status": true
+        },
+        {
+            "allergies": ["nuts"],
+            "sex": "M",
+            "name": "Xavier Kuehn",
+            "health number": 4321,
+            "conditions": [
+                "arthritis",
+                "eczema"
+            ],
+            "age": 19,
+            "vaxx Status": true
+        }
+    ],
+    "name": "My patient catalog"
+}

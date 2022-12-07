@@ -1,0 +1,41 @@
+{
+    "patients": [
+        {
+            "allergies": [],
+            "sex": "F",
+            "name": "Jennifer Nguyen",
+            "health number": 1234,
+            "conditions": [],
+            "age": 19,
+            "vaxx Status": false
+        },
+        {
+            "allergies": [],
+            "sex": "M",
+            "name": "Xavier Kuehn",
+            "health number": 4321,
+            "conditions": [],
+            "age": 19,
+            "vaxx Status": false
+        },
+        {
+            "allergies": [],
+            "sex": "F",
+            "name": "Annabell Nguyen",
+            "health number": 1122,
+            "conditions": [],
+            "age": 12,
+            "vaxx Status": false
+        },
+        {
+            "allergies": [],
+            "sex": "F",
+            "name": "Tiffany Nguyen",
+            "health number": 5555,
+            "conditions": [],
+            "age": 16,
+            "vaxx Status": false
+        }
+    ],
+    "name": "My Patient Catalog"
+}
